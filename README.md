@@ -4,7 +4,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 * **Details**:
@@ -15,7 +15,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ---
 
-## 🔍 Objectives
+## Objectives
 
 * Explore and preprocess the dataset
 * Train and evaluate multiple classification models
@@ -23,7 +23,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 *  k-nearest Neighbors (KNN)
 * Logistic Regression
@@ -32,7 +32,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Given the dataset's imbalance, the following metrics were prioritized:
 
@@ -42,8 +42,15 @@ Given the dataset's imbalance, the following metrics were prioritized:
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 * Python 3.x
 * pandas, numpy, matplotlib, seaborn
 * scikit-learn
+
+## 📝 Project Retrospective
+
+<p align="justify" style="color: #6c757d;"><em>
+This was one of my early machine learning projects, built to explore fraud detection using imbalanced datasets and basic classification models. While the implementation is quite simple by my current standards, it helped me understand key ML concepts like feature importance, precision-recall tradeoff, and data preprocessing.
+</em></p>
+
